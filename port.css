@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Alumni+Sans+Collegiate+One:ital@1&family=Autour+One&family=Quicksand:wght@300;400&family=Young+Serif&display=swap');
+.row{
+   
+    margin: 0%;
+    /* height: 350px; */
+    width: 100%;
+    background: linear-gradient(30deg,rgb(62, 94, 100),rgb(2, 35, 39));
+}
+.c1{
+    text-align: center;
+    font-family: 'Pacifico',cursive;
+}
+img{
+    height: 80%;
+    width: 80%;
+}
+.c2{
+    background: linear-gradient(30deg,rgb(62, 94, 100),rgb(2, 35, 39));
+    
+    width: 75%;
+    border-radius: 40px;
+}
+body{
+    background-color: rgb(0, 15, 15);
+}
+.c2{
+    padding: 30px;
+}
+p1{
+    font-style: italic;
+}
+.c3{
+    background: linear-gradient(30deg,rgb(62, 94, 100),rgb(2, 35, 39));
+width: 75%;
+border-radius: 40px;
+padding: 30px;
+}
+button{
+    border-radius: 40px;
+    background-color: rgb(248, 248, 248);
+    color: rgb(62, 94, 100);
+    border: white;
+}
+.accordian-body{
+    color: rgb(62, 94, 100);
+}
+span{
+    color: aquamarine;
+}
+.btn{
+    border-radius: 40px;
+    background-color: rgb(248, 248, 248);
+    color: rgb(62, 94, 100);
+    border: white;
+    text-align: center;
+}
